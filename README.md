@@ -20,14 +20,14 @@ Personal install:
 
 ```bash
 mkdir -p ~/.agents/skills
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/work-with-kzt.git ~/.agents/skills/work-with-kzt
+git clone https://github.com/kouzt123/work-with-kzt.git ~/.agents/skills/work-with-kzt
 ```
 
 Repo-scoped install:
 
 ```bash
 mkdir -p .agents/skills
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/work-with-kzt.git .agents/skills/work-with-kzt
+git clone https://github.com/kouzt123/work-with-kzt.git .agents/skills/work-with-kzt
 ```
 
 Use it in Codex:
@@ -42,14 +42,14 @@ Personal install:
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/work-with-kzt.git ~/.claude/skills/work-with-kzt
+git clone https://github.com/kouzt123/work-with-kzt.git ~/.claude/skills/work-with-kzt
 ```
 
 Repo-scoped install:
 
 ```bash
 mkdir -p .claude/skills
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/work-with-kzt.git .claude/skills/work-with-kzt
+git clone https://github.com/kouzt123/work-with-kzt.git .claude/skills/work-with-kzt
 ```
 
 Use it in Claude Code:
