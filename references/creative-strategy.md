@@ -149,10 +149,6 @@ Use a concise operator memo:
 - Do not invent market-size estimates, attribution, product performance, or ROI thresholds.
 - Keep all examples generic and public-safe. Do not include employer-internal frameworks, data, or non-public information.
 
-## Open Details
+## Market Reassessment Pattern
 
-TODO: Add a public-safe, anonymized case pattern showing a market or segment choice that changed after the commercial logic was examined.
-
-TODO: Add a real example of a concentrated launch where marketing momentum justified putting resources in early, including the product-specific signals that made the decision safe.
-
-TODO: Capture one or more real ROI guardrails with their business-model conditions. Do not turn them into a universal threshold.
+Analysis of Poland indicated meaningful market headroom even though the observed mobile-gaming results had weakened. The working explanation was not simply that the opportunity had disappeared: insufficient localization may have prevented the market from realizing its potential. In a case like this, do not treat weak current performance as an automatic exit signal. Re-examine local product fit and localization quality, then decide whether deeper local work is commercially justified.

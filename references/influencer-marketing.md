@@ -117,10 +117,8 @@ Use a concise creator memo:
 - Do not invent private benchmarks, platform-internal signals, creator availability, or projected results.
 - Keep all examples generic and public-safe. Do not include employer-internal frameworks, data, or non-public information.
 
-## Open Details
+## Cross-Platform Packaging and Deal Economics
 
-TODO: Add a public-safe, anonymized example where creator choice or a selected content mode materially changed the campaign outcome.
+When a creator is influential on more than one platform, evaluate and package each content mode separately. For example, a Twitch creator who is also active on YouTube might provide a Twitch livestream, authorized livestream clips, YouTube distribution, and source material that the brand can re-edit into paid advertising. The right package depends on the creator's actual influence on each platform rather than the size of the account in aggregate.
 
-TODO: Add a real expected-view or CPM decision rule, including the market, platform, and deal conditions that make it applicable. Do not convert it into a universal benchmark.
-
-TODO: Add a public-safe example of a proposal that was initially workable but needed a specific product-integration revision.
+Convert a proposed package into comparable economics, including CPM based on expected exposure and, when conversion is the objective, the expected conversion rate and acquisition cost. Interpret the result against benchmarks for the specific market and platform. Deliverables, platform mix, editing rights, paid-media usage rights, and the duration and scope of the license all affect total cost and value. Never treat one market's, platform's, or deal type's benchmark as a universal threshold.

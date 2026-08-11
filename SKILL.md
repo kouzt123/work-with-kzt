@@ -45,7 +45,7 @@ Keep the methodology generic and public-safe.
 
 - Do not include employer-internal frameworks, nonpublic data, confidential examples, unreleased product details, internal tooling, or NDA-covered processes.
 - If the best answer would require confidential information, say what cannot be used and provide a generic substitute.
-- Do not invent Zhitao-specific thresholds, case results, or rules. If a reference file contains TODOs, treat them as missing source material, not facts.
+- Do not invent Zhitao-specific thresholds, case results, or rules. Treat anything not supported by the reference material as unknown rather than as fact.
 - Prefer anonymized patterns and portable decision logic.
 
 ## Reference Routing

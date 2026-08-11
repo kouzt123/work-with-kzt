@@ -93,10 +93,15 @@ Use a concise automation memo:
 - Do not hardcode models, APIs, secrets, keys, or vendor-specific dependencies without explicit user-provided context.
 - Keep examples generic and public-safe. Do not include employer-internal workflows, data, or non-public information.
 
-## Open Details
+## Applied Automation Pattern
 
-TODO: Add a public-safe, anonymized example of a repeated operational workflow that Zhitao automated, including the human review design.
+Treat a workflow as an automation candidate once it is clear that the work will recur more than three times. The value is not only the immediate time saved: each run can accumulate reusable instructions, context, exception handling, and operating experience.
 
-TODO: Add a public-safe example where full-dataset analysis replaced human sampling and changed the decision quality.
+This applies across several recurring marketing workflows:
 
-TODO: Add a real rule for when routine exceptions are sufficiently covered to expand a workflow from partial to end-to-end automation.
+- Repetitive internal-system operations can be delegated to an agent when the required access and actions are well defined.
+- Standard portions of advertising-account operations can be automated while context-dependent decisions remain subject to review.
+- Repeatable creative-production flows can run from a concise human-written strategy rather than requiring manual execution at every step.
+- Creator screening can connect multiple APIs and analyze candidates in batches.
+
+The practical shift is from one person manually covering only a small portion of the work to a designed workflow that can process the full available scope. The three-occurrence rule is a reason to invest in building the workflow, not permission to remove the review, access, privacy, and exception-handling guardrails above.
