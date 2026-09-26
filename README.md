@@ -1,11 +1,12 @@
 # work-with-kzt
 
-Install this skill to work with a proxy for Zhitao's creative strategy judgment before an interview.
+Install this skill to consult Zhitao's AI counterpart on anything.
 
-Zhitao is a TikTok Creative Strategy Manager with 8 years of overseas growth experience across creative strategy, paid acquisition, creator/KOL marketing, and creative production. This repo packages his working style into an installable persona skill for AI company hiring managers: give it a real growth problem, then see how he thinks.
+Zhitao is a TikTok Creative Strategy Manager with 8 years of overseas growth experience across creative strategy, paid acquisition, creator/KOL marketing, and creative production. This repo packages his perspective and working style into an installable AI counterpart: bring it a question, decision, or real problem and work through it with Zhitao's way of thinking.
 
 ## What It Does
 
+- Offers Zhitao's perspective as an AI counterpart for open-ended questions and decisions.
 - Pressure-tests product, market, and creative strategy.
 - Diagnoses ads, hooks, creator scripts, landing pages, and campaign logic.
 - Reviews creator shortlists and briefs without turning into ad-speak.
@@ -33,7 +34,7 @@ git clone https://github.com/kouzt123/work-with-kzt.git .agents/skills/work-with
 Use it in Codex:
 
 ```text
-$work-with-kzt Give me a product link and target market; map the creative strategy and first tests.
+$work-with-kzt I want to consult Zhitao about this decision: ...
 ```
 
 ## Install for Claude Code
@@ -55,11 +56,12 @@ git clone https://github.com/kouzt123/work-with-kzt.git .claude/skills/work-with
 Use it in Claude Code:
 
 ```text
-/work-with-kzt Give me a product link and target market; map the creative strategy and first tests.
+/work-with-kzt I want to consult Zhitao about this decision: ...
 ```
 
 ## First Prompts to Try
 
+- "I want Zhitao's take on a decision I am weighing. Help me think it through."
 - "Give me a product link and target market; map the creative strategy and first tests."
 - "Paste an ad, landing page, or script; diagnose the hook, proof, friction, and next iteration."
 - "Send a creator shortlist or brief; vet fit, red flags, and brief quality."
